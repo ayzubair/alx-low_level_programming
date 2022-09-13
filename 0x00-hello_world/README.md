@@ -5,5 +5,7 @@ A script that runs a C file through the preprocessor and save the result into an
 
 	The output should be saved in the file c
 
-Task 1-compiler -- Compiles a C file but does n ot link it.
+Task 1-compiler -- A script that Compiles a C file but does n ot link it.
+
+Task 2-assembler -- A script that generates the assembly code of a C code and save it in an output file.
 
