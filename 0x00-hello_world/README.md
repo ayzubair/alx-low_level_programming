@@ -13,3 +13,7 @@ Task 3-name -- A script that compiles a C file and creates an executable named c
 
 Task 4-puts.c -- A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
+Task 5-printf.c -- A c program that prints out "with proper grammar, but the outcome is a piece of art,, followed by a new line." using the printf function.
+
+Task 6-size.c -- A c program that prints out the size of various data types in c programming language (char, int, long int, long long int, and float.
+
