@@ -3,11 +3,11 @@
 /**
  *main - Write out some quoted texts.
  *Description: Using the main function
- *this program outputs "and that piece of art is useful" - Dora Korpar, 2015-10-19,
- *followed by a new line"
+ *this program outputs "and that piece of art is useful" - Dora Korpar, 2015-10-19"
+ *Return 1
  */
 int main(void)
 {
-	write("and that piece of art is useful\" Dora Korpar, 2015-10-19\n");
+	write(1, "and that piece of art is useful\" Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 }
