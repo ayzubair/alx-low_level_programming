@@ -1,10 +1,8 @@
 /* Prints all possible combination of single-digit numbers (0-9)*/
 #include <stdio.h>
 /**
- * main - prints 0, 1, 2,......, 9.
- * followed by a new line.
- *
- * Result: Always 0 (Success)
+ * main - prints all possible combinations of single-digit numbers
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
