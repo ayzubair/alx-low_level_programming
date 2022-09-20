@@ -20,7 +20,7 @@ int main(void)
 
 	for (i = 0; i < 100; i++)
 	{
-		pass[i] rand() % 78;
+		pass[i] = rand() % 78;
 		counter += (pass[i] + '0');
 		putchar(pass[i] + '0');
 
